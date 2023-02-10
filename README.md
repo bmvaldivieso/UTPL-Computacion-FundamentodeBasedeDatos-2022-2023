@@ -6,7 +6,7 @@ Universidad Técnica Particular de Loja
 
 Carrera de Computación
 
-Pinos Armijos Oliver Anthony
+Byron Marcelo Valdivieso Paucar
 
 Fundamentos de Bases de Datos
 
